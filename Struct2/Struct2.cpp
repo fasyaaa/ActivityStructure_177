@@ -23,7 +23,7 @@ int main() {
 	cin >> mhs.nim;
 	cout << "Masukkan nama : ";
 	cin >> mhs.nama;
-	cout << "Alamat : " << endl;				//Membuat sebuah data memiliki beberapa kriteria 
+	cout << "Alamat : " << endl;				//Membuat sebuah data memiliki beberapa penjelasan 
 	cout << "\tMasukkan desa : ";
 	cin >> mhs.alamat.desa;
 	cout << "\tMasukkan kota : ";
