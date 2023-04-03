@@ -32,7 +32,7 @@ int main()
 	cout << "\nalamat : " << mhs1.alamat;
 	cout << "\numur : " << mhs1.umur;
 
-	cout << "\nNim : " << mhs2.nim;			//Display data 2
+	cout << "\n\nNim : " << mhs2.nim;			//Display data 2
 	cout << "\nnama : " << mhs2.nama;
 	cout << "\nalamat : " << mhs2.alamat;
 	cout << "\numur : " << mhs2.umur;
