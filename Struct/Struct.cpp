@@ -2,7 +2,7 @@
 
 using namespace std;
 
-struct Mahasiswa {
+struct Mahasiswa {				//digunakan untuk pemanggilan tipe data
 	string nim;
 	string nama;
 	string alamat;
@@ -11,7 +11,7 @@ struct Mahasiswa {
 
 int main()
 {
-	Mahasiswa mhs1, mhs2;
+	Mahasiswa mhs1, mhs2;		//Memasukkan data agar bisa dipanggil
 
 	mhs1.nim = "20220140177";
 	mhs1.nama = "Fasya";
